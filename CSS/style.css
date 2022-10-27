@@ -14,6 +14,15 @@
     font-weight: bold;
     text-decoration: none;
 }
+p{
+    color: white;
+}
+
+.contato{
+    font-style: italic;
+    font-weight: 700;
+ 
+}
 
 main{
     color: white;
