@@ -1,0 +1,168 @@
+header{
+    width: 1280px;
+    height: 500px;
+    left: 0px;
+    top: 0px;    
+}
+
+title{
+    position: absolute;
+    width: 580px;
+    height: 263px;
+    left: 350px;
+    top: 118px;
+}
+
+.titulo{
+    position: absolute;
+    width: 196px;
+    height: 39px;
+    left: 542px;
+    top: 118px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+
+    
+    
+    color: #000000;
+}
+
+.JN{
+    position: absolute;
+    height: 42px;
+    left: 466px;
+    top: 189px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.295em;
+    
+    color: #000000;    
+}
+
+.navbar{
+    box-sizing: border-box;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 24px 22px;
+    gap: 54px;
+    
+    position: absolute;
+    width: 580px;
+    height: 76px;
+    left: 350px;
+    top: 305px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+.navbar-nav{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    gap: 50px;
+}
+
+.navbar-itens{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.nav-link{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+    flex: none;
+    text-decoration: none;
+}
+
+.foto1{
+    position: absolute;
+    width: 815px;
+    height: 340px;
+    left: 13px;
+    top: 518px;
+}
+
+.foto2{
+    position: absolute;
+    width: 426px;
+    height: 694.85px;
+    left: 841px;
+    top: 517px;
+}
+
+.foto3{
+    position: absolute;
+    width: 402px;
+    height: 340px;
+    left: 13px;
+    top: 871px;
+}
+
+.foto4{
+    position: absolute;
+    width: 402px;
+    height: 340px;
+    left: 428px;
+    top: 871px;
+}
+
+footer{
+    position: absolute;
+    width: 1280px;
+    height: 302px;
+    left: 0px;
+    top: 1237px;
+}
+
+footer h2{
+    position: absolute;
+    width: 358px;
+    height: 58px;
+    left: 461px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.icones{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding: 11px 15px 8px;
+    gap: 30px;
+    
+    position: absolute;
+    width: 280px;
+    height: 59px;
+    left: 469px;
+    top: 90px;
+}
